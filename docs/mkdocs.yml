@@ -1,7 +1,7 @@
 site_name: TERRA Horizon Project
 
-site_url: https://terra-horizon.github.io/
-repo_url: https://github.com/terra-horizon/terra-horizon.github.io
+site_url: https://terra-horizon.github.io/eo_environmental_preprocessing_docs
+repo_url: https://github.com/terra-horizon/eo_environmental_preprocessing  
 
 nav:
   - Overview: index.md
